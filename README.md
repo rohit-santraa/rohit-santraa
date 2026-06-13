@@ -77,24 +77,25 @@ public class RohitSantra {
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 JWT Authentication System
-
-A secure, production-ready authentication and authorization system built with Spring Security and JWT — stateless, scalable, and safe.
-
+### 🔐 Enterprise JWT Auth Server
+ 
+A secure, production-ready authentication and authorization system built with Spring Boot 3 and Spring Security 6 — stateless, scalable, and safe.
+ 
 **Features:**
-- ✅ User Registration & Login
-- ✅ JWT Token Generation & Validation
-- ✅ Role-Based Access Control (RBAC)
-- ✅ Password Encryption with BCrypt
-- ✅ Fully secured REST API endpoints
-
+- ✅ Stateless JWT Auth (Access tokens & Database-persisted Refresh tokens)
+- ✅ Role-Based Access Control (RBAC) via `@PreAuthorize`
+- ✅ Secure Credential Management (BCrypt hashing & seeding guards)
+- ✅ Global Exception Handling (Clean JSON responses, no stack traces)
+- ✅ Production-Ready Dockerization (Multi-stage builds & MySQL health checks)
 **Tech:**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
+ 
+![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot 3](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Security 6](https://img.shields.io/badge/Spring_Security_6-6DB33F?style=flat-square&logo=spring-security&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
