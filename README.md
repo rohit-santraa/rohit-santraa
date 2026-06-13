@@ -77,7 +77,7 @@ public class RohitSantra {
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Enterprise JWT Auth Server
+### 🔐 [Enterprise JWT Auth Server](https://github.com/rohit-santraa/enterprise-jwt-auth-server.git)
  
 A secure, production-ready authentication and authorization system built with Spring Boot 3 and Spring Security 6 — stateless, scalable, and safe.
  
@@ -96,6 +96,9 @@ A secure, production-ready authentication and authorization system built with Sp
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rohit-santraa&repo=enterprise-jwt-auth-server&theme=tokyonight&hide_border=true&bg_color=0d1535&title_color=4a9eff&icon_color=00d4ff&text_color=8899cc&border_radius=10)](https://github.com/rohit-santraa/enterprise-jwt-auth-server)
+
 
 </td>
 <td width="50%" valign="top">
